@@ -9,7 +9,7 @@
 
 
 #### Instructions:
-- This assignment is worth ```100``` points and is due on ```12 December 2024```.
+- This assignment is worth ```100``` points and is due on ```5 December 2024```.
 - You must follow the university student guidelines and honor code.
 - Questions are posted in ```HW5.md``` file.
 - Submissions must be made on ```GitHub```.
